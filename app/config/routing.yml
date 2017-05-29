@@ -1,0 +1,5 @@
+app:
+    resource: '@CustoMoodAppBundle/Controller/'
+    type: annotation
+user_logout:
+    path: /user/logout

@@ -1,0 +1,27 @@
+{
+  "name": "customood",
+  "version": "1.0.0",
+  "description": "customood =========",
+  "main": "web/app.php",
+  "directories": {
+    "test": "tests"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-minify": "^1.0.0",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.6.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github-fabis94:fabis94/CustoMood.git"
+  },
+  "author": "Kristaps Fabians Geikins",
+  "license": "ISC"
+}
